@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa6a3b6f.css",
+    "main.css": "/static/css/main.639f242d.css",
     "main.js": "/static/js/main.5212afef.js",
     "static/js/453.c47ee02e.chunk.js": "/static/js/453.c47ee02e.chunk.js",
-    "static/media/portrait.jpg": "/static/media/portrait.75be31c9f4e7a4cee712.jpg",
     "static/media/leadership.png": "/static/media/leadership.515c7cc3543d22572e67.png",
     "static/media/fotoJose.png": "/static/media/fotoJose.412a15376c5856dec33c.png",
     "static/media/fotoEva.png": "/static/media/fotoEva.73dae5868222733763f1.png",
+    "static/media/portrait.jpg": "/static/media/portrait.a593f8772d45a4f72002.jpg",
     "static/media/fotoDiego.png": "/static/media/fotoDiego.89b528b75823f01c7de9.png",
     "static/media/fotoMaria.png": "/static/media/fotoMaria.81d6c676bb1beaffc0e7.png",
     "static/media/philosophy.jpg": "/static/media/philosophy.7cfea598d096622520bd.jpg",
@@ -24,12 +24,12 @@
     "static/media/sen-latin-400.woff2": "/static/media/sen-latin-400.e50ece9a2c9c2dd24d69.woff2",
     "static/media/inditex.png": "/static/media/inditex.0dc81c2f9756d5a1f7f1.png",
     "index.html": "/index.html",
-    "main.aa6a3b6f.css.map": "/static/css/main.aa6a3b6f.css.map",
+    "main.639f242d.css.map": "/static/css/main.639f242d.css.map",
     "main.5212afef.js.map": "/static/js/main.5212afef.js.map",
     "453.c47ee02e.chunk.js.map": "/static/js/453.c47ee02e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa6a3b6f.css",
+    "static/css/main.639f242d.css",
     "static/js/main.5212afef.js"
   ]
 }
